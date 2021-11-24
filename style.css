@@ -1,0 +1,30 @@
+.header_div{
+    background-color:deepskyblue;
+    color:gold;
+   width:100%;
+   margin-bottom:15px;
+}
+img{
+    width:200px;
+    height:200px;
+    margin-right:10px;
+}
+.header_div p{
+    font-size:15px;
+}
+.header_div h2{
+    font-size:15px;
+    letter-spacing:3px;
+}
+.copyright_footer{
+    position:fixed;
+    bottom:0px;
+    background-color:deepskyblue;
+    color:gold;
+    line-height:3;
+    text-align:center;
+   width:100%;
+
+}
+.main_div 
+button{ font-family: 'Roboto', sans-serif; margin-top: 30px; width: 130px; font-weight: bolder; letter-spacing: 3px; }
